@@ -98,13 +98,15 @@ database/hazeyscrochet_db.sql
 
 ## Contributors
 
-This project was developed as part of a three-person project.
+This project was developed as a group project.
 
 ### Team Members
 
 - Christian James Cahilig
 - Bai Fatima Andong
 - Karylle Mish Gellica
+- Jan Loren Odiong
+- John Llorie Sarmiento
 
 
 ## My Contributions
